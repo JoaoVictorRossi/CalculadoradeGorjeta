@@ -8,4 +8,5 @@ Aplicativo para calcular o valor de uma gorjeta, relacionando a valor da conta, 
 
 ### **MainActivity print:**
 
-![Screenshot_1](https://user-images.githubusercontent.com/86536889/145905059-489f8985-fb17-44b2-9eee-7914fb2f72c5.png)
+
+![Screenshot_1](https://user-images.githubusercontent.com/86536889/145905211-9fca37c1-95c6-4fed-9654-0fa76a27f283.png)
