@@ -13,6 +13,7 @@
 + ImageView
 + EditText types
 + SeekBar
++ TextView
 ## How the project work?
 
 This project does a calculation that return a value tip accordingly with the account value and the percent that the own user set up.  
