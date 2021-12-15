@@ -1,11 +1,23 @@
-# Calculadora de Gorjeta
-##### App feito em Java - Android Studio  
+# Calculadora de Gorjeta (Tip calculator)
 
-Aplicativo feito para treino de XML e linguagem de programação Java.
+> Status: Finished.
 
-Aplicativo para calcular o valor de uma gorjeta, relacionando a valor da conta, com a porcentagem que o usuário definir no próprio aplicativo.
+### It's a mobile application developed by me, where I show my start in mobile development.
+--- 
+## **Technologies used this project**:
 
+### Programming language(JAVA).
+### _XML_:
 
-### **MainActivity print:**  
++ ConstraintLayout
++ ImageView
++ EditText types
++ SeekBar
+## How the project work?
 
+This project does a calculation that return a value tip accordingly with the account value and the percent that the own user set up.  
+<br>
+<br>
+
+# Project Preview
 ![Screenshot_1](https://user-images.githubusercontent.com/86536889/145905296-b33e9f09-ecfc-4bbb-85b1-d73681dceee3.png)
